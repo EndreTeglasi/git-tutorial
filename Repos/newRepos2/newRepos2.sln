@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "newRepos2", "newRepos2\newRepos2.csproj", "{F17414FB-0031-449F-944B-B49264ED4FC1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F17414FB-0031-449F-944B-B49264ED4FC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F17414FB-0031-449F-944B-B49264ED4FC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F17414FB-0031-449F-944B-B49264ED4FC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F17414FB-0031-449F-944B-B49264ED4FC1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {52E5B439-8B93-42DC-9C1F-9599688F0FBB}
+	EndGlobalSection
+EndGlobal
